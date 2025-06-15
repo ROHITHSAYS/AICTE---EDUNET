@@ -1,6 +1,3 @@
-Certainly! Here's a comprehensive GitHub README template tailored for your Network Intrusion Detection System (IDS) project, which evaluates the performance of Support Vector Machine (SVM) and Artificial Neural Network (ANN) classifiers using feature selection techniques:
-
----
 
 # Network Intrusion Detection System (IDS) with SVM and ANN
 
